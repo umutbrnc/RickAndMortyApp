@@ -1,0 +1,6 @@
+
+disabled_rules:
+  - static_over_final_class
+  - line_length
+  - force_cast
+  - trailing_whitespace
